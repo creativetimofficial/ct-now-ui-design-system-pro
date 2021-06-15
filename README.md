@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-now-ui-design-system-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-now-ui-design-system-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-now-ui-design-system-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-now-ui-design-system-pro/issues?q=is%3Aissue+is%3Aclosed)
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/489/original/opt_nudsp_thumbnail.png)
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/489/original/opt_nudsp_thumbnail.jpg)
 
 Now UI Design System PRO is a premium Bootstrap 5 design system provided by Creative Tim. It is a beautiful cross-platform UI kit featuring over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files and classes.
 
