@@ -58,7 +58,7 @@ Let us know your thoughts below. And good luck with development!
 
 | HTML |
 | --- |
-| [![Now UI Design System PRO HTML](https://s3.amazonaws.com/creativetim_bucket/products/489/original/opt_nudsp_thumbnail.png?1612539858)](http://demos.creative-tim.com/now-ui-design-system-pro/presentation.html?ref=readme-sudsp)
+| [![Now UI Design System PRO HTML](https://s3.amazonaws.com/creativetim_bucket/products/489/original/opt_nudsp_thumbnail.jpg)](http://demos.creative-tim.com/now-ui-design-system-pro/presentation.html?ref=readme-sudsp)
 
 ## Demo
 
