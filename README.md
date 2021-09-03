@@ -1,6 +1,6 @@
 # [Now UI Design System PRO](http://demos.creative-tim.com/now-ui-design-system-pro/presentation.html?ref=readme-nudsp)
 
-![version](https://img.shields.io/badge/version-2.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-now-ui-design-system-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-now-ui-design-system-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-now-ui-design-system-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-now-ui-design-system-pro/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-2.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-now-ui-design-system-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-now-ui-design-system-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-now-ui-design-system-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-now-ui-design-system-pro/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/489/original/opt_nudsp_thumbnail.jpg)
 
